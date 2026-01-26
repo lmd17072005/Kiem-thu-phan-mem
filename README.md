@@ -103,3 +103,22 @@ BUILD SUCCESS
 
 - **Họ tên:** Lê Minh Đức
 - **GitHub:** [lmd17072005](https://github.com/lmd17072005)
+
+
+Bài thực hành 3 : 
+# Bài tập Kiểm thử phần mềm - Bài tập thực hành kiểm thử tự động End-to-End với Cypress
+Kết quả chạy kiểm thử như trong hình : 
+
+<img width="1919" height="1127" alt="Screenshot 2026-01-21 211553" src="https://github.com/user-attachments/assets/4e27cc94-df10-4778-a3d0-d7b33f850060" />
+
+<img width="1919" height="1199" alt="Screenshot 2026-01-21 211714" src="https://github.com/user-attachments/assets/e07567bb-2340-444e-a02f-eed152478c24" />
+
+<img width="1919" height="1199" alt="Screenshot 2026-01-21 212109" src="https://github.com/user-attachments/assets/3169b502-2458-4ed0-934e-b803c3b62d72" />
+<img width="1919" height="1199" alt="Screenshot 2026-01-21 212657" src="https://github.com/user-attachments/assets/78be8e08-f191-40c9-bab4-a853cfe89ab0" />
+
+<img width="1919" height="1199" alt="Screenshot 2026-01-21 212854" src="https://github.com/user-attachments/assets/097f2c0c-9b7c-4aab-ba70-05ec38d9e73d" />
+
+<img width="1919" height="1199" alt="Screenshot 2026-01-21 215602" src="https://github.com/user-attachments/assets/03efeb78-8225-4371-9113-f595817a71bd" />
+<img width="1919" height="1199" alt="Screenshot 2026-01-21 223952" src="https://github.com/user-attachments/assets/dbea2d70-3a50-4ae3-8f70-e7dbc9bf1b8c" />
+
+
